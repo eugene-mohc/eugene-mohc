@@ -2,4 +2,4 @@
 - 👀 I’m interested in React and TypeScript
 - 🌱 I’m currently learning React and TypeScript
 - 💞️ I’m looking to collaborate on React and TypeScript
-- 📫 How to reach me ...
+- 📫 How to reach me React and TypeScript
